@@ -1,0 +1,9 @@
+.Header{
+    max-width:100% ;
+    background-color: rgb(17, 50, 39);
+    border: solid 2px black;
+}
+
+.Header{
+    grid-area: h;
+}
